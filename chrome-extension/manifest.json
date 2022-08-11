@@ -3,7 +3,7 @@
   "version": "1.0",
   "manifest_version": 3,
   "description": "Single-click subscribe for Fire Pro Wrestling",
-  "homepage_url": "https://github.com/biffhuxtable/fpw-subscribe",
+  "homepage_url": "https://github.com/biffhuxtable/fpw-subscribe-Steam-version-",
   "icons": { "16": "images/icon16.png",
               "48": "images/icon48.png",
               "128": "images/icon128.png" },
@@ -11,7 +11,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_title": "FPW Subscriber",
+    "default_title": "FPW Subscriber (Steam)",
     "default_icon": "images/icon128.png"
   },
   "permissions": [
