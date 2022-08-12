@@ -1,4 +1,4 @@
-# fpw-subscribe-Steam-version-
+# fpw-subscribe (Steam version)
 Single-click subscribe for Fire Pro Wrestling World (Steam Workshop)
 
 ## Instructions
